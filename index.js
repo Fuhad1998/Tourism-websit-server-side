@@ -67,7 +67,7 @@ async function run(){
         
     }
     finally{
-        // await client.close() dkfhhd dddfgds 
+        // await client.close() 
     }
 }
 run().catch(console.dir)
@@ -80,3 +80,5 @@ app.get('/', (req, res)=>{
 app.listen(port, ()=>{
     console.log('running port', port)
 })
+
+// hellow
