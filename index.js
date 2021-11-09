@@ -67,7 +67,7 @@ async function run(){
         
     }
     finally{
-        // await client.close() dkfhhd
+        // await client.close() dkfhhd dddfgds 
     }
 }
 run().catch(console.dir)
